@@ -1,0 +1,10 @@
+.gridContainer {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.blocks {
+  border: 1px dotted hsla(0, 0%, 30%, 0.3);
+  box-sizing: border-box;
+}
